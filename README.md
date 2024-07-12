@@ -1,2 +1,3 @@
 # registry
 geren
+name = nanminghui
